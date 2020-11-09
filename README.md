@@ -8,7 +8,7 @@ Wall Control sells [a line of high quality hanger accessories compatible with th
 
 ## DDD Printable Wall Control Designs
 
-The DDD Printable Wall Control collection is designed for easy printablility, with all parts provided in a printable orientation and no supports should required.  Most of the models in this series are classified as "sidepieces" or "centerpieces".
+The DDD Printable Wall Control collection is designed for easy printability, with all parts provided in a printable orientation and no supports should required.  Most of the models in this series are classified as "sidepieces" or "centerpieces".
 
 ### DDD Printable Wall Control Sidepieces
 
@@ -18,7 +18,7 @@ Sidepieces are designed with a hook that catches into the Wall Control slots.  S
 
 Centerpieces are designed to mount between a pair of sidepieces.  Centerpieces are designed to create custom hook, shelf, or hangar solutions which can snap into place between a variety of sidepieces.
 
-The simplest use case to create a single hook might involve a sidepiece along with a retainer pin to help keep the part in place in the slot.  Most use cases will involve a left/right combination of sidepieces, with a centerpiece in the middle to create a modular hanging solution with interchangable parts.
+The simplest use case to create a single hook might involve a sidepiece along with a retainer pin to help keep the part in place in the slot.  Most use cases will involve a left/right combination of sidepieces, with a centerpiece in the middle to create a modular hanging solution with interchangeable parts.
 
 ### DDD Printable Wall Control Quickhooks
 

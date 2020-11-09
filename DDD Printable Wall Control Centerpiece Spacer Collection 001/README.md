@@ -18,8 +18,8 @@ Simple, blank models with connection pins on either side in various sizes.  Grea
 
 ## Spacer Blank Flush
 
-These spacers mount flush to the back and also front of the side pieces, which requires the use of 4 or 6 [4x10x8mm Pins](4x10x8mm Pin.stl) along the edges to connect them to a sidepiece. Another good choice for horizontal use as a shelf, I've also used these parts mounted vertically to provide a large flat surface for attaching adhesive-backed velcro strips.
+These spacers mount flush to both the back and front of the side pieces, which requires the use of 4 or 6 [4x10x8mm Pins](4x10x8mm Pin.stl) along the edges to connect them to a sidepiece. Another good choice for horizontal use as a shelf, I've also used these parts mounted vertically to provide a large flat surface for attaching adhesive-backed Velcro strips.
 
 ## Clip-on Spacer
 
-Another flush-mount design requiring 4 or 6 [4x10x8mm Pins](4x10x8mm Pin.stl) for mounting between side pieces.  The Clip-on spacer provides a vertical surface set a few mm away from the wall panel  so that one can mount clip-on parts such as a tape measure.
+Another flush-mount design requiring 4 or 6 [4x10x8mm Pins](4x10x8mm%20Pin.stl) for mounting between side pieces.  The Clip-on spacer provides a vertical surface set a few mm away from the wall panel  so that one can mount clip-on parts such as a tape measure.
