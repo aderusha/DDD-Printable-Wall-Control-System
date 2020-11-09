@@ -1,4 +1,4 @@
-# DDD Printable Wall Control
+# DDD Printable Wall Control System
 
 The DDD Printable Wall Control project provides a wide range of modular pegboard hangers for use with the [Wall Control powder-coated steel pegboard solutions available on Amazon](https://amzn.to/35emTsm).  After much research I landed on Wall Control as a durable, high-strength and low-price organization solution which works with existing 1/4" standard pegboard pegs.  The panels also add 1" slots which allows for greater strength and rigidity for compatible hangers.  I've found their panels to be inexpensive, well-made, and available in a range of colors and sizes.
 
@@ -24,13 +24,10 @@ The simplest use case to create a single hook might involve a sidepiece along wi
 
 Quickhooks are fast-printing, two part hook/hangar solutions designed for quick and easy printing for lightweight use cases.
 
---
+---
 
 ## About powder coated Wall Control Panels
 
 Wall control panels are available in a range of colors or as a simple unpainted, steel sheet.  The plain steel panels are slightly thinner than the powder coated panels.  The catches designed into these models are designed to attach firmly to the powder coated panels, while unpainted panels might have a little more play due to the difference in panel thickness.
 
 ---
-
-## Centerpiece Spacer Collection vol 1
-
