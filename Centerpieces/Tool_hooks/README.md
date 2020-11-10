@@ -16,11 +16,15 @@ Removable tray to hold 8 small hand tools like pliers or cutters.  Set your most
 
 ### [2x5 13x 10mm Screwdriver Holder](./2x5 13x 10mm Screwdriver Holder.stl)
 
-Holds 13x 10mm-wide screwdrivers (or similar).  I like [Wiha precision tools](https://amzn.to/2GQ8ucA) and these were designed to fit.  Combine with [2x2 L brackets](../../Sidepieces/L_brackets/) and a [2x5in spacer](../../Centerpieces/Spacer_perforated/2x5%20Spacer%20perforated.stl).
+Holds 13x 10mm-wide screwdrivers (or similar).  I like [Wiha precision tools](https://amzn.to/2GQ8ucA) and these were designed to fit.  Combine with [2x2 L brackets](../../Sidepieces/L_brackets/) and a [2x5in spacer](../../Centerpieces/Spacer_perforated/2x5 Spacer perforated.stl).
 
 ### [2.25x2 Milwaukee 3-8 Cordless Ratchet](./2.25x2 Milwaukee 3-8 Cordless Ratchet.stl)
 
-Tool holder for the [Milwaukee 3/8" M12 Fuel Cordless Ratchet](https://amzn.to/2IsC9ZB).  Combine with [2x2 L brackets](../../Sidepieces/L_brackets/) and a [2x5in spacer](../../Centerpieces/Spacer_perforated/2x5%20Spacer%20perforated.stl).
+Tool holder for the [Milwaukee 3/8" M12 Fuel Cordless Ratchet](https://amzn.to/2IsC9ZB).  Combine with [2x2 L brackets](../../Sidepieces/L_brackets/) and a [2x2in spacer](../../Centerpieces/Spacer_perforated/2x2 Spacer perforated.stl).
+
+### Chinese Digital Calipers [150mm](./Chinese Digital Calipers 150mm.stl) and [300mm](./Chinese Digital Calipers 300mm.stl)
+
+Designed for [150mm](https://amzn.to/3pcWByG) and [300mm](https://amzn.to/2UdfQdb) calipers of the sort you'll find from various Chinese vendors.  Combine with [2x2 L brackets](../../Sidepieces/L_brackets/) and a [2x2in spacer](../../Centerpieces/Spacer_perforated/2x2 Spacer perforated.stl).
 
 ---
 
