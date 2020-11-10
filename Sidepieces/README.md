@@ -24,7 +24,7 @@ Simple, flat-surface sidepieces allowing centerpieces to be mounted vertically a
 
 "L" shaped brackets, good for lightweight loads or for use as hooks.
 
-### [Angle Brackets](Angle_brackets/)
+### [Angle Brackets](Angle_brackets "Angle Brackets")
 
 Angle brackets good for holding moderate loads, general-purpose solution for mounting centerpieces horizontally.
 
@@ -32,7 +32,7 @@ Angle brackets good for holding moderate loads, general-purpose solution for mou
 
 Square brackets good for holding heavy loads.  With a full complement of centerpieces mounted between two square brackets, one can create a "torsion box" which can be helpful for mounting things which might be hanging off to one side of the hanger, presenting a twisting force on the bracket.
 
-### [U Brackets](U_brackets/)
+### [U Brackets](U_brackets/.)
 
 U brackets are useful as "hooks" for mounting nearly anything.  Use with a [retainer](Retainers/) to create a single hook which is useful for hanging power tools, or combine a left/right pair of U brackets to hang a drill.
 
