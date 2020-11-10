@@ -17,3 +17,7 @@ Simple, flat-surface sidepieces allowing centerpieces to be mounted vertically a
 ## L Brackets
 
 "L" shaped brackets, good for lightweight loads or for use as hooks.
+
+## Angle Brackets
+
+Angle brackets good for holding moderate loads, general-purpose solution for mounting centerpieces horizontally.
