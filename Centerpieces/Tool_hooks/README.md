@@ -16,7 +16,7 @@ Removable tray to hold 8 small hand tools like pliers or cutters.  Set your most
 
 ### [11pc Wrench Hangers](1x6%2011pc%20Wrench%20Hanger.stl)
 
-Holds an 11 piece set of SAE box-end wrenches, combine with the [Inverted model](1x6%2011pc%20Wrench%20Hanger%20Inverted.stl) to hold a [22 piece set like this](https://amzn.to/35fa7dd).
+Holds an 11 piece set of SAE box-end wrenches, combine with the [Inverted model](1x6%2011pc%20Wrench%20Hanger%20Inverted.stl) to hold a [22 piece set like this](https://amzn.to/35fa7dd).  Print with a left/right/center set of [6x0 Flats](../../Sidepieces/Flats) and at least 8x [4x8x10mm Pins](../Spacer_blank_flush/4x10x8mm%20Pin.stl).
 
 ### [2x5 13x 10mm Screwdriver Holder](2x5%2013x%2010mm%20Screwdriver%20Holder.stl)
 
@@ -28,7 +28,7 @@ Designed for [150mm](https://amzn.to/3pcWByG) and [300mm](https://amzn.to/2UdfQd
 
 ### [2.25x2 Milwaukee 3/8" Cordless Ratchet](2.25x2%20Milwaukee%203-8%20Cordless%20Ratchet.stl)
 
-Tool holder for the [Milwaukee 3/8" M12 Fuel Cordless Ratchet](https://amzn.to/2IsC9ZB).  Combine with 4x [4x8x10mm Pin](../Spacer_blank_flush/4x10x8mm%20Pin.stl) and a pair of [2x2 L brackets](../../Sidepieces/L_brackets/).
+Tool holder for the [Milwaukee 3/8" M12 Fuel Cordless Ratchet](https://amzn.to/2IsC9ZB).  Combine with 4x [4x8x10mm Pins](../Spacer_blank_flush/4x10x8mm%20Pin.stl) and a pair of [2x2 L brackets](../../Sidepieces/L_brackets/).
 
 ### Wiha 33496 8-Piece T-Handle Hex Drivers ([M10/8/6/5](1x4%20Wiha%20T-Handle%20M10%20M8%20M6%20M5.stl) and [M4/3/2.5/2](1x3%20Wiha%20T-Handle%20M4%20M3%20M2.5%20M2.stl))
 
