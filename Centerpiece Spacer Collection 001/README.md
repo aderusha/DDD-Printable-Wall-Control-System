@@ -1,6 +1,6 @@
 # DDD Printable Wall Control Centerpiece Spacer Collection vol 001
 
-![Centerpiece Spacer Collection vol 001](https://github.com/aderusha/DDD-Printable-Wall-Control-System/blob/main/images/DDD%20Printable%20Wall%20Control%20Centerpiece%20Spacer%20Collection%20001.png?raw=true)
+![Centerpiece Spacer Collection vol 001](https://github.com/aderusha/DDD-Printable-Wall-Control-System/blob/main/DDD%20Printable%20Wall%20Control%20Centerpiece%20Spacer%20Collection%20001/DDD%20Printable%20Wall%20Control%20Centerpiece%20Spacer%20Collection%20001.png?raw=true)
 
 The Centerpiece Spacer Collection vol 001 offers a set of 59 models for use with the [DDD Printable Wall Control System](../).  Centerpiece names start with the dimensions, roughly equivalent to inches as used on the Wall Control system.  A 2x4 Centerpiece is 2in in height and fits between sidepieces that are 4in apart.
 
