@@ -10,11 +10,11 @@ Centerpiece names start with the dimensions, roughly equivalent to inches as use
 
 ## Centerpiece Tool Hooks
 
-### 3x7 Benchtop Hand Tool [Tray](./3x7%20Benchtop%20Hand%20Tool%20Holder%20Tray.stl) and [Holder](./3x7%20Benchtop%20Hand%20Tool%20Holder.stl)
+### 3x7 Benchtop Hand Tool [Tray](3x7%20Benchtop%20Hand%20Tool%20Holder%20Tray.stl) and [Holder](3x7%20Benchtop%20Hand%20Tool%20Holder.stl)
 
 Removable tray to hold 8 small hand tools like pliers or cutters.  Set your most commonly-used hand tools in the tray to give you an easy-to-grab solution to bring to your bench with all your tools in easy reach near the work.
 
-### [2x5 13x 10mm Screwdriver Holder](./2x5%2013x%2010mm%20Screwdriver%20Holder.stl)
+### [2x5 13x 10mm Screwdriver Holder](2x5%2013x%2010mm%20Screwdriver%20Holder.stl)
 
 Holds 13x 10mm-wide screwdrivers (or similar).  I like [Wiha precision tools](https://amzn.to/2GQ8ucA) and these were designed to fit.  Combine with [2x2 L brackets](../../Sidepieces/L_brackets/) and a [2x5in spacer](../../Centerpieces/Spacer_perforated/2x5%20Spacer%20perforated.stl).
 
@@ -22,9 +22,13 @@ Holds 13x 10mm-wide screwdrivers (or similar).  I like [Wiha precision tools](ht
 
 Tool holder for the [Milwaukee 3/8" M12 Fuel Cordless Ratchet](https://amzn.to/2IsC9ZB).  Combine with [2x2 L brackets](../../Sidepieces/L_brackets/) and a [2x2in spacer](../../Centerpieces/Spacer_perforated/2x2%20Spacer%20perforated.stl).
 
-### Chinese Digital Calipers [150mm](./Chinese%20Digital%20Calipers%20150mm.stl) and [300mm](./Chinese%20Digital%20Calipers%20300mm.stl)
+### Chinese Digital Calipers [150mm](Chinese%20Digital%20Calipers%20150mm.stl) and [300mm](Chinese%20Digital%20Calipers%20300mm.stl)
 
 Designed for [150mm](https://amzn.to/3pcWByG) and [300mm](https://amzn.to/2UdfQdb) calipers of the sort you'll find from various Chinese vendors.  Combine with [2x2 L brackets](../../Sidepieces/L_brackets/) and a [2x2in spacer](../../Centerpieces/Spacer_perforated/2x2%20Spacer%20perforated.stl).
+
+### Wiha 33496 8-Piece T-Handle Hex Drivers ([M10/8/6/5](Wiha%20T-Handle%20M10%20M8%20M6%20M5.stl) and [M4/3/2.5/2](Wiha%20T-Handle%20M4%20M3%20M2.5%20M2.stl))
+
+Holders for the [Wiha 33496 8-Piece T-Handle Hex Driver set](https://amzn.to/36gpuRK), split into two parts.  The [larger set](Wiha%20T-Handle%20M10%20M8%20M6%20M5.stl) needs to be set 3" away from the panel for the T-Handles to fit, so pair with [2x3 Angle brackets](../../Sidepieces/Angle_brackets/) and a [2x4in spacer](../../Centerpieces/Spacer_perforated/2x4%20Spacer%20perforated.stl).  The [smaller set](Wiha%20T-Handle%20M4%20M3%20M2.5%20M2.stl) can set closer to the wall if desired, using [2x2 Angle brackets](../../Sidepieces/Angle_brackets/) and a [2x3in spacer](../../Centerpieces/Spacer_perforated/2x3%20Spacer%20perforated.stl).
 
 ---
 
