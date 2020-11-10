@@ -12,6 +12,10 @@ Centerpiece names start with the dimensions, roughly equivalent to inches as use
 
 ## Centerpiece Models
 
+### [Tool_hooks](Tool_hooks/)
+
+Centerpiece models designed for specific tools and applications.
+
 ### [Spacer Perforated](Spacer_perforated/)
 
 Models with 1/2" and 1" holes along the flat surface for additional rigidity, interesting aesthetics, or to hold things with 1/2" or 1" round features.
@@ -31,10 +35,6 @@ Another flush-mount design requiring 4 or 6 [4x10x8mm Pins](./4x10x8mm%20Pin.stl
 ### [U hooks](U_hooks/)
 
 U hooks useful for mounting horizontally between side pieces to hang tools.
-
-### [Tool_hooks](Tool_hooks/)
-
-Centerpiece models designed for specific tools and applications.
 
 ---
 

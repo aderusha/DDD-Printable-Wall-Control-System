@@ -42,6 +42,14 @@ Fits the [Wera 5003550001 Zyklop 3/8" Ratchet](https://amzn.to/35fuVRI).  Combin
 
 Fits the [Wera Kraftform Plus 160i/6 Insulated Screwdriver set](https://amzn.to/36il4tO).  Print with [2x2 Angle brackets](../../Sidepieces/Angle_brackets/) and a [2x5 spacer](../../Centerpieces/Spacer_perforated/2x5%20Spacer%20perforated.stl).
 
+### [Wera Kraftform 917+918 Chiseldrivers](2x6%20Wera%20917+918.stl)
+
+Holds a set of [6 drivers from the Wera 917 and 916 Chiseldrivers](https://amzn.to/35iAoXX) (1/2/3 Phillips and Pozidriv).  Print with [2x2 Angle brackets](../../Sidepieces/Angle_brackets/) and a [2x6 spacer](../../Centerpieces/Spacer_perforated/2x5%20Spacer%20perforated.stl).  The 6" span on this needs some strength, I recommend printing this one with 100% perimeters.  It'll take a while to print but the result will be plenty rigid.
+
+### [Wera Kraftform 923 slotted Chiseldrivers](2x5%20Wera%20932.stl)
+
+Holds a set of [5 Wera 932 slotted Chiseldrivers](https://amzn.to/35iAoXX).  Print with [2x2 Angle brackets](../../Sidepieces/Angle_brackets/) and a [2x5 spacer](../../Centerpieces/Spacer_perforated/2x5%20Spacer%20perforated.stl).
+
 ### [NWS 138-69-200 Fantastico Plus Side Cutters](1x2%20NWS%20138-69-200%20Fantastico%20Plus%20Side%20Cutters.stl)
 
 Holds the fantastic [NWS 138-69-200 Fantastico Plus Side Cutters](https://amzn.to/3eNrbKv).  Combine with [1x2 L brackets](../../Sidepieces/L_brackets/) and a [2x2 spacer](../../Centerpieces/Spacer_perforated/2x2%20Spacer%20perforated.stl).
