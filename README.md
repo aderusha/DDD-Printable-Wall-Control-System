@@ -14,24 +14,25 @@ The DDD Printable Wall Control collection is designed for easy printability, wit
 
 ### [Quickhooks](Quickhooks)
 
-<img src="https://github.com/aderusha/DDD-Printable-Wall-Control-System/blob/main/images/Quickhooks_example.png?raw=true" width="150">
-
-Quickhooks are fast-printing, two part hook/hangar solutions designed for quick and easy printing for lightweight use cases.
+| <img src="https://github.com/aderusha/DDD-Printable-Wall-Control-System/blob/main/images/Quickhooks_example.png?raw=true" width="250"> | Quickhooks are fast-printing, two part hook/hangar solutions designed for quick and easy printing for lightweight use cases. |
+| --- | --- | 
 
 
 ### [Sidepieces](Sidepieces/)
 
-<img src="https://github.com/aderusha/DDD-Printable-Wall-Control-System/blob/main/images/Sidepieces_example.png?raw=true" width="150">
-
-Sidepieces are designed with a hook that catches into the Wall Control slots.  Sidepieces extend out from the wall and come in a variety of lengths and shapes.  Most of these parts come in left/center/right variations, allowing the user to create side-by-side combinations of various solutions, all connected together across your Wall Control panels.
+| <img src="https://github.com/aderusha/DDD-Printable-Wall-Control-System/blob/main/images/Sidepieces_example.png?raw=true" width="250"> | Sidepieces are designed with a hook that catches into the Wall Control slots.  Sidepieces extend out from the wall and come in a variety of lengths and shapes.  Most of these parts come in left/center/right variations, allowing the user to create side-by-side combinations of various solutions, all connected together across your Wall Control panels. |
+| --- | --- | 
 
 ### [Centerpieces](Centerpieces/)
 
-<img src="https://github.com/aderusha/DDD-Printable-Wall-Control-System/blob/main/images/Centerpieces_example.png?raw=true" width="150">
+| <img src="https://github.com/aderusha/DDD-Printable-Wall-Control-System/blob/main/images/Centerpieces_example.png?raw=true" width="250"> | Centerpieces are designed to mount between a pair of sidepieces.  Centerpieces are designed to create custom hook, shelf, or hangar solutions which can snap into place between a variety of sidepieces. |
+| --- | --- | 
 
-Centerpieces are designed to mount between a pair of sidepieces.  Centerpieces are designed to create custom hook, shelf, or hangar solutions which can snap into place between a variety of sidepieces.
+## Using DDD Printable Wall Control
 
 The simplest use case to create a single hook might involve a sidepiece along with a retainer pin to help keep the part in place in the slot.  Most use cases will involve a left/right combination of sidepieces, with a centerpiece in the middle to create a modular hanging solution with interchangeable snap-fit parts.
+
+The parts are designed with a press-fit, one can use a vice or clamps to force the parts together.  The final fit will be determined by the calibration of your printer, if anything is loose you can add a drop of CA glue to keep parts held tightly.
 
 ---
 
