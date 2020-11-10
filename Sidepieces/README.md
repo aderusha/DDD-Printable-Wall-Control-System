@@ -26,6 +26,10 @@ Simple, flat-surface sidepieces allowing centerpieces to be mounted vertically a
 
 Angle brackets good for holding moderate loads, general-purpose solution for mounting centerpieces horizontally.
 
+### [Square Brackets](Square_brackets/)
+
+Square brackets good for holding heavy loads.  With a full complement of centerpieces mounted between two square brackets, one can create a "torsion box" which can be helpful for mounting things which might be hanging off to one side of the hanger, presenting a twisting force on the bracket.
+
 ---
 
 ## Printing notes
