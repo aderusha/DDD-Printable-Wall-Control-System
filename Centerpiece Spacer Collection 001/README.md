@@ -10,7 +10,7 @@ This collection includes the following:
 
 ## Spacer Perforated
 
-Models with 1/2" or 1" holes along the flat surface for additional rigidity, interesting aesthetics, or to possibly hold or mount things with 1/2" or 1" round features.
+Models with 1/2" or 1" holes along the flat surface for additional rigidity, interesting aesthetics, or to hold things with 1/2" or 1" round features.
 
 ## Spacer Blank
 
@@ -22,4 +22,4 @@ These spacers mount flush to both the back and front of the side pieces, which r
 
 ## Clip-on Spacer
 
-Another flush-mount design requiring 4 or 6 [4x10x8mm Pins](4x10x8mm%20Pin.stl) for mounting between side pieces.  The Clip-on spacer provides a vertical surface set a few mm away from the wall panel  so that one can mount clip-on parts such as a tape measure.
+Another flush-mount design requiring 4 or 6 [4x10x8mm Pins](./4x10x8mm%20Pin.stl) for mounting between side pieces.  The Clip-on spacer provides a vertical surface set a few mm away from the wall panel  so that one can mount clip-on parts such as a tape measure.
