@@ -2,9 +2,10 @@
 
 ![Centerpiece Spacers](https://github.com/aderusha/DDD-Printable-Wall-Control-System/blob/main/images/DDD_Printable_Wall_Control_Centerpiece_Spacers.png?raw=true)
 
-Centerpieces mount between sidepieces to create a custom hanging solution through snap-fit modular components.
+Centerpieces mount between sidepieces to create a custom hanging solution by combining snap-fit modular components.
 
 ## Centerpiece Naming
+
 Centerpiece names start with the dimensions, roughly equivalent to inches as used on the Wall Control system.  A 2x4 Centerpiece is 2in in height and fits between sidepieces that are 4in apart.
 
 ---
@@ -25,7 +26,15 @@ These spacers mount flush to both the back and front of the side pieces, which r
 
 ### [Clip-on Spacer](Spacer_clip-on/)
 
-Another flush-mount design requiring 4 or 6 [4x10x8mm Pins](./4x10x8mm%20Pin.stl) for mounting between side pieces.  The Clip-on spacer provides a vertical surface set a few mm away from the wall panel  so that one can mount clip-on parts such as a tape measure.
+Another flush-mount design requiring 4 or 6 [4x10x8mm Pins](./4x10x8mm%20Pin.stl) for mounting between side pieces.  The clip-on spacer provides a vertical surface set a few mm away from the wall panel so that one can mount clip-on parts such as a tape measure.
+
+### [U hooks](U_hooks/)
+
+U hooks useful for mounting horizontally between side pieces to hang tools.
+
+### [Tool_hooks](Tool_hooks/)
+
+Centerpiece models designed for specific tools and applications.
 
 ---
 

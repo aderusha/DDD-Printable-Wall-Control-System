@@ -1,5 +1,7 @@
 # DDD Printable Wall Control Sidepieces
 
+![Sidepieces](https://github.com/aderusha/DDD-Printable-Wall-Control-System/blob/main/images/DDD_Printable_Wall_Control_Sidepieces.png?raw=true)
+
 Sidepieces are used to connect to the Wall Control through the 1in slots and extend forward out from the wall.  Sidepieces can work on their own with a retainer, offering a single model extended forward from the board which is often useful for things like a single hook.  Alternately, sidepieces can be hooked together via centerpieces to create a wide range of modular hanging solutions
 
 ## Sidepiece Naming
