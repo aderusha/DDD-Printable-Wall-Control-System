@@ -1,0 +1,33 @@
+# DDD Printable Wall Control Sidepieces
+
+Sidepieces are used to connect to the Wall Control through the 1in slots and extend forward out from the wall.  Sidepieces can work on their own with a retainer, offering a single model extended forward from the board which is often useful for things like a single hook.  Alternately, sidepieces can be hooked together via centerpieces to create a wide range of modular hanging solutions
+
+## Sidepiece Naming
+
+Sidepiece names start with the dimensions, roughly equivalent to inches as used on the Wall Control system.  For example, a 2x4 Sidepiece is 2in in height and extends 4in out from the base (which itself is 8.8mm in front of the wall panel).
+
+---
+
+## Sidepiece Models
+
+### [Retainers](Retainers/)
+
+Retainers are used when a sidepiece is used without one or more centerpieces, providing a secure fit against the Wall Control board.  Models are provided in 2/3/4/5/6 inch heights.
+
+### [Flats](Flats/)
+
+Simple, flat-surface sidepieces allowing centerpieces to be mounted vertically against the Wall Control board.  Useful with flush-mounted sidepieces.
+
+### [L Brackets](L_brackets)
+
+"L" shaped brackets, good for lightweight loads or for use as hooks.
+
+### [Angle Brackets](Angle_brackets/)
+
+Angle brackets good for holding moderate loads, general-purpose solution for mounting centerpieces horizontally.
+
+---
+
+## Printing notes
+
+The sidepieces bear most of the load for an assembled hanger solution.  The downward forces press up against a catch on the bottom of the slot hook on each sidepiece, while the outward and rotational forces pull against the top-most portion of that same catch.  I've found printing with 100% perimeters in the catch area provides the strongest print. PLA is a good choice for maximum rigidity.
