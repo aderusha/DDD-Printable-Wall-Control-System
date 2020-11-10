@@ -14,15 +14,20 @@ The DDD Printable Wall Control collection is designed for easy printability, wit
 
 ### [Quickhooks](Quickhooks)
 
+<img src="https://github.com/aderusha/DDD-Printable-Wall-Control-System/blob/main/images/Quickhooks_example.png?raw=true" width="150">
 
-| ![Quickhooks example](https://github.com/aderusha/DDD-Printable-Wall-Control-System/blob/main/images/Quickhooks_example.png?raw=true) | Quickhooks are fast-printing, two part hook/hangar solutions designed for quick and easy printing for lightweight use cases. |
-| --- | --- |
+Quickhooks are fast-printing, two part hook/hangar solutions designed for quick and easy printing for lightweight use cases.
+
 
 ### [Sidepieces](Sidepieces/)
+
+<img src="https://github.com/aderusha/DDD-Printable-Wall-Control-System/blob/main/images/Sidepieces_example.png?raw=true" width="150">
 
 Sidepieces are designed with a hook that catches into the Wall Control slots.  Sidepieces extend out from the wall and come in a variety of lengths and shapes.  Most of these parts come in left/center/right variations, allowing the user to create side-by-side combinations of various solutions, all connected together across your Wall Control panels.
 
 ### [Centerpieces](Centerpieces/)
+
+<img src="https://github.com/aderusha/DDD-Printable-Wall-Control-System/blob/main/images/Centerpieces_example.png?raw=true" width="150">
 
 Centerpieces are designed to mount between a pair of sidepieces.  Centerpieces are designed to create custom hook, shelf, or hangar solutions which can snap into place between a variety of sidepieces.
 
