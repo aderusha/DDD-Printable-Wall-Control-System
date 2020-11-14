@@ -58,6 +58,14 @@ Holds the fantastic [NWS 138-69-200 Fantastico Plus Side Cutters](https://amzn.t
 
 Hanger for the best damn lineman's pliers ever made - the [Vampliers VT-001-8](https://amzn.to/3khDUpO).  Pair with [1x2 L brackets](../../Sidepieces/L_brackets/) and a [2x2 spacer](../../Centerpieces/Spacer_perforated/2x2%20Spacer%20perforated.stl).
 
+### [DeWalt DCB118 Charger](2x7 DeWalt DCB118 Charger.stl)
+
+Mount for the [DeWalt DCB118 20v/60v quick charger](https://amzn.to/36yhLio).  This is DeWalt's fastest charger yet, works with all modern batteries.
+
+### [28mm](2x2 28mm Hammer Head Catch.stl) and [33mm Hammer Head Catch](2x2 33mm Hammer Head Catch.stl)
+
+Mounts for claw/rip hammers, the 33mm was designed for the [Estwing Ultra Series 15oz E15SM](https://amzn.to/3puEnJa).
+
 ---
 
 ## Printing notes
