@@ -24,6 +24,10 @@ Simple, flat-surface sidepieces allowing centerpieces to be mounted vertically a
 
 "L" shaped brackets, good for lightweight loads or for use as hooks.
 
+### [L Brackets Flat](L_brackets_flat)
+
+"L" shaped brackets with no retainer hook on the end, providing a flat top.  Good for hanging things with a 1/4" mounting hole.
+
 ### [Angle Brackets](Angle_brackets)
 
 Angle brackets good for holding moderate loads, general-purpose solution for mounting centerpieces horizontally.
