@@ -2,3 +2,4 @@
 *.skb
 .local
 .vscode/*
+*.3mf
