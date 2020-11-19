@@ -14,7 +14,7 @@ The DDD Printable Wall Control collection is designed for easy printability, wit
 
 | [Quickhooks](Quickhooks) | |
 | --- | --- |
-| [<img src="https://github.com/aderusha/DDD-Printable-Wall-Control-System/blob/main/images/Quickhooks_example.png?raw=true" width="500">](Quickhooks) | [Quickhooks](Quickhooks) are fast-printing, two part hook/hanger solutions designed for quick and easy printing for lightweight use cases. Available in a range of sizes.|
+| [<img src="https://github.com/aderusha/DDD-Printable-Wall-Control-System/blob/main/images/Quickhooks_example.png?raw=true" width="370">](Quickhooks) | [Quickhooks](Quickhooks) are fast-printing, two part hook/hanger solutions designed for quick and easy printing for lightweight use cases. Available in a range of sizes.|
 
 | [Sidepieces](Sidepieces) | |
 | --- | --- |
