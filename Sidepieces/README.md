@@ -40,6 +40,10 @@ Square brackets good for holding heavy loads.  With a full complement of centerp
 
 U brackets are useful as "hooks" for mounting nearly anything.  Use with a [retainer](Retainers/) to create a single hook which is useful for hanging power tools, or combine a left/right pair of U brackets to hang a drill.
 
+### [Dowel Rod Hangers](Dowel_rod_hanger/.)
+
+Hangers to hold dowel rods, allowing one to mount things with a transverse hole such as spools.
+
 ---
 
 ## Printing notes
