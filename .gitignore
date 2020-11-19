@@ -1,3 +1,4 @@
 *.skp
 *.skb
 .local
+.vscode/*
