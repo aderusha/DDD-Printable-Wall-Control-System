@@ -58,11 +58,19 @@ Holds the fantastic [NWS 138-69-200 Fantastico Plus Side Cutters](https://amzn.t
 
 Hanger for the best damn lineman's pliers ever made - the [Vampliers VT-001-8](https://amzn.to/3khDUpO).  Pair with [1x2 L brackets](../../Sidepieces/L_brackets/) and a [2x2 spacer](../../Centerpieces/Spacer_perforated/2x2%20Spacer%20perforated.stl).
 
-### [DeWalt DCB118 Charger](2x7 DeWalt DCB118 Charger.stl)
+### [DeWalt DCB118 Charger](2x7%20DeWalt%20DCB118%20Charger.stl)
 
-Mount for the [DeWalt DCB118 20v/60v quick charger](https://amzn.to/36yhLio).  This is DeWalt's fastest charger yet, works with all modern batteries.
+Mount for the [DeWalt DCB118 20v/60v quick charger](https://amzn.to/36yhLio).  This is DeWalt's fastest charger yet, works with all modern 20v and 60v batteries.
 
-### [28mm](2x2 28mm Hammer Head Catch.stl) and [33mm Hammer Head Catch](2x2 33mm Hammer Head Catch.stl)
+### [DeWalt DCB095 Charger](3x1%20DeWalt%20DCB095%20Charger.stl)
+
+Mount for the [DeWalt DCB095 8v charger](https://amzn.to/3fpajda).  Charger for the 8v battery system used by their [powered screwdrivers](https://amzn.to/3fpajda).
+
+### [Milwaukee M12 Charger](4x3%20Milwaukee%20M12%20Charger.stl)
+
+Mount for the [Milwaukee M12 Charger](https://amzn.to/375AkL7), used for all M12 tools from Milwaukee.
+
+### [28mm](2x2%2028mm%20Hammer%20Head%20Catch.stl) and [33mm Hammer Head Catch](2x2%2033mm%20Hammer%20Head%20Catch.stl)
 
 Mounts for claw/rip hammers, the 33mm was designed for the [Estwing Ultra Series 15oz E15SM](https://amzn.to/3puEnJa).
 
