@@ -14,27 +14,23 @@ Sidepiece names start with the dimensions, roughly equivalent to inches as used 
 
 ### [Retainers](Retainers/)
 
-Retainers are used when a sidepiece is used without one or more centerpieces, providing a secure fit against the Wall Control board.  Models are provided in 2/3/4/5/6 inch heights.
+Retainers are used when a sidepiece is used without one or more centerpieces, providing a secure fit against the Wall Control board.  Standard retainer models are narrow enough to allow side-by-side placement with an adjacent sidepiece + retainer.  Locking retainers are wider but can be used with the [8mm lock pin](Retainers/8mm%20Lock%20Pin.stl) to lock the hanger to the panel. Models are provided in 2/3/4/5/6 inch heights.
 
 ### [Flats](Flats/)
 
-Simple, flat-surface sidepieces allowing centerpieces to be mounted vertically against the Wall Control board.  Useful with flush-mounted sidepieces.
+Simple, flat-surface sidepieces allowing centerpieces to be mounted vertically against the Wall Control board.  Useful with flush-mounted Centerpieces.
 
 ### [L Brackets](L_brackets)
 
-"L" shaped brackets, good for lightweight loads or for use as hooks.
-
-### [L Brackets Flat](L_brackets_flat)
-
-"L" shaped brackets with no retainer hook on the end, providing a flat top.  Good for hanging things with a 1/4" mounting hole.
+"L" shaped brackets, good for lightweight loads or for use as hooks.  Models are available with a flat top, or with a 1/4" round "hook" feature which can help to retain parts hung on these models.
 
 ### [Angle Brackets](Angle_brackets)
 
-Angle brackets good for holding moderate loads, general-purpose solution for mounting centerpieces horizontally.
+Angle brackets good for holding moderate loads, general-purpose solution for mounting centerpieces horizontally.  Available in "flat" or "hook" variations.
 
 ### [Square Brackets](Square_brackets/)
 
-Square brackets good for holding heavy loads.  With a full complement of centerpieces mounted between two square brackets, one can create a "torsion box" which can be helpful for mounting things which might be hanging off to one side of the hanger, presenting a twisting force on the bracket.
+Square brackets good for holding heavy loads.  With a full complement of centerpieces mounted between two square brackets, one can create a "torsion box" which can be helpful for mounting things which might be hanging off to one side of the hanger, presenting a twisting force on the bracket.  Available in "flat" or "hook" variations.
 
 ### [U Brackets](U_brackets/.)
 
