@@ -4,7 +4,7 @@
 
 The DDD Printable Wall Control project provides a wide range of modular pegboard hangers for use with the [Wall Control powder-coated steel pegboard solutions available on Amazon](https://amzn.to/35emTsm).  After much research I landed on Wall Control as a durable, high-strength and low-price organization solution which works with existing 1/4" standard pegboard pegs.  The panels also add 1" slots which allows for greater strength and rigidity for compatible hangers.  I've found their panels to be inexpensive, well-made, and available in a range of colors and sizes.
 
-Wall Control sells [a line of high quality hanger accessories compatible with these slots](https://amzn.to/35fkhuu) and I've found them to be reasonably priced and of high quality.  However, printed solutions can offer a highly-customized solutions made at home for your own organization needs and can do so quickly and inexpensively.  One might consider leveraging both solutions as needs arise.
+Wall Control sells [a line of high quality hanger accessories compatible with these slots](https://amzn.to/35fkhuu) and I've found them to be reasonably priced and of good quality.  However, printed solutions can offer a highly-customized solutions made at home for your own organization needs and can do so quickly and inexpensively.  One might consider leveraging both solutions as needs arise.
 
 ---
 
@@ -22,15 +22,19 @@ The DDD Printable Wall Control collection is designed for easy printability, wit
 
 | [Centerpieces](Centerpieces) | |
 | --- | --- |
-| [<img src="https://github.com/aderusha/DDD-Printable-Wall-Control-System/blob/main/images/Centerpieces_example.png?raw=true" width="500">](Centerpieces) | [Centerpieces](Centerpieces) are designed to mount between a pair of sidepieces.  Centerpieces are designed to create custom hook, shelf, or hangar solutions which can snap into place between a variety of sidepieces. |
+| [<img src="https://github.com/aderusha/DDD-Printable-Wall-Control-System/blob/main/images/Centerpieces_example.png?raw=true" width="500">](Centerpieces) | [Centerpieces](Centerpieces) are designed to mount between a pair of sidepieces.  Centerpieces are designed to create custom hook, shelf, or hangar solutions which can snap into place between a variety of sidepieces. Some centerpiece models offer an additional locking feature which allows for completely rigid connections to a Wall Control panel.|
 
 ---
 
 ## Using DDD Printable Wall Control
 
-The simplest use case to create a single hook might involve a sidepiece along with a retainer pin to help keep the part in place in the slot.  Most use cases will involve a left/right combination of sidepieces, with a centerpiece in the middle to create a modular hanging solution with interchangeable snap-fit parts.
+The simplest use case to create a single hook might involve a sidepiece along with a retainer to help keep the part in place in the slot.  Most use cases will involve a left/right combination of sidepieces, with a centerpiece in the middle to create a modular hanging solution with interchangeable snap-fit parts.
 
 The parts are designed with a press-fit, one can use a vice or clamps to force the parts together.  The final fit will be determined by the calibration of your printer, if anything is loose you can add a drop of glue to keep parts held tightly.
+
+## Locking Wall Control parts
+
+Several [Centerpiece](Centerpieces) models offer a locking feature based on a fantastic idea from [Seth Altobelli](https://www.thingiverse.com/seth_a/designs).  A [locking screw](Centerpieces/Locking_spacer/8mm%20Lock%20Pin.stl) can be printed and screwed into these models to provide a solid, positive-lock fit with the Wall Control system.  A locked part is fully constrained and will not move while hanging or removing a tool which greatly improves the experience over traditional pegboard offerings.
 
 ---
 

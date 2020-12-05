@@ -16,9 +16,9 @@ Centerpiece names start with the dimensions, roughly equivalent to inches as use
 
 Centerpiece models designed for specific tools and applications.
 
-### [Spacer Perforated](Spacer_perforated/)
+### [Locking Spacer](Locking_spacer/)
 
-Models with 1/2" and 1" holes along the flat surface for additional rigidity, interesting aesthetics, or to hold things with 1/2" or 1" round features.
+Spacers with threads for the [8mm Lock Pin](Locking_spacer/8mm%20Lock%20Pin.stl) which will lock the assembled hanger to the Wall Control board.  Use these as vertical spacers between your sidepieces to create a solid mounting solution for nearly anything.
 
 ### [Spacer Blank](Spacer_blank/)
 
@@ -35,6 +35,10 @@ Another flush-mount design requiring 4 or 6 [4x10x8mm Pins](./4x10x8mm%20Pin.stl
 ### [U hooks](U_hooks/)
 
 U hooks useful for mounting horizontally between side pieces to hang tools.
+
+### [Spacer Perforated](Spacer_perforated/)
+
+Models with 1/2" and 1" holes along the flat surface for additional rigidity, interesting aesthetics, or to hold things with 1/2" or 1" round features.
 
 ---
 
