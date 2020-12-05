@@ -14,7 +14,7 @@ The DDD Printable Wall Control collection is designed for easy printability, wit
 
 | [Quickhooks](Quickhooks) | |
 | --- | --- |
-| [<img src="https://github.com/aderusha/DDD-Printable-Wall-Control-System/blob/main/images/Quickhooks_example.png?raw=true" width="290">](Quickhooks) | [Quickhooks](Quickhooks) are fast-printing, two part hook/hanger solutions designed for quick and easy printing for lightweight use cases. Available in a range of sizes.|
+| [<img src="https://github.com/aderusha/DDD-Printable-Wall-Control-System/blob/main/images/Quickhooks_example.png?raw=true" width="288">](Quickhooks) | [Quickhooks](Quickhooks) are fast-printing, two part hook/hanger solutions designed for quick and easy printing for lightweight use cases. Available in a range of sizes.|
 
 | [Sidepieces](Sidepieces) | |
 | --- | --- |
@@ -35,6 +35,8 @@ The parts are designed with a press-fit, one can use a vice or clamps to force t
 ## Locking Wall Control parts
 
 Several [Centerpiece](Centerpieces) models offer a locking feature based on a fantastic idea from [Seth Altobelli](https://www.thingiverse.com/seth_a/designs).  A [locking screw](Centerpieces/Locking_spacer/8mm%20Lock%20Pin.stl) can be printed and screwed into these models to provide a solid, positive-lock fit with the Wall Control system.  A locked part is fully constrained and will not move while hanging or removing a tool which greatly improves the experience over traditional pegboard offerings.
+
+The locking screw uses a 1/4" square drive, same as one would use to drive a 1/4" drive socket.
 
 ---
 
