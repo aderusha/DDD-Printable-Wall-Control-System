@@ -18,7 +18,7 @@ The DDD Printable Wall Control collection is designed for easy printability, wit
 
 | [Sidepieces](Sidepieces) | |
 | --- | --- |
-| [<img src="https://github.com/aderusha/DDD-Printable-Wall-Control-System/blob/main/images/Sidepieces_example.png?raw=true" width="400">](Sidepieces) | [Sidepieces](Sidepieces) are designed with a hook that catches into the Wall Control slots.  Sidepieces extend out from the wall and come in a variety of lengths and shapes, and are offered in left/right/center variations.|
+| [<img src="https://github.com/aderusha/DDD-Printable-Wall-Control-System/blob/main/images/Sidepieces_example.png?raw=true" width="390">](Sidepieces) | [Sidepieces](Sidepieces) are designed with a hook that catches into the Wall Control slots.  Sidepieces extend out from the wall and come in a variety of lengths and shapes, and are offered in left/right/center variations.|
 
 | [Centerpieces](Centerpieces) | |
 | --- | --- |
