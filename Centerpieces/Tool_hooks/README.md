@@ -24,7 +24,7 @@ Holds 10x or 13x 10mm-wide screwdrivers (or similar).  I like [Wiha precision to
 
 ### Chinese Digital Calipers [150mm](1x3%20Chinese%20Digital%20Calipers%20150mm.stl) and [300mm](1x3%20Chinese%20Digital%20Calipers%20300mm.stl)
 
-Designed for [150mm](https://amzn.to/3pcWByG) and [300mm](https://amzn.to/2UdfQdb) calipers of the sort you'll find from various Chinese vendors.  Combine with [2x2 L brackets](../../Sidepieces/L_brackets/) and a [2x2 spacer](../../Centerpieces/Spacer_perforated/2x2%20Spacer%20perforated.stl).
+Designed for [150mm](https://amzn.to/3pcWByG) and [300mm](https://amzn.to/2UdfQdb) calipers of the sort you'll find from various Chinese vendors.  Combine with [2x1 L brackets](../../Sidepieces/L_brackets/), a [2x3 locking spacer](../../Centerpieces/Locking_spacer/2x3%20Locking%20Spacer.stl), 4x [4x8x10mm Pins](../Spacer_blank_flush/4x10x8mm%20Pin.stl), and an [8mm Lock Pin](../../Centerpieces/Locking_spacer/8mm%20Lock%20Pin.stl) to keep it in place.
 
 ### [2.25x2 Milwaukee 3/8" Cordless Ratchet](2.25x2%20Milwaukee%203-8%20Cordless%20Ratchet.stl)
 
@@ -78,4 +78,4 @@ Mounts for claw/rip hammers, the 33mm was designed for the [Estwing Ultra Series
 
 ## Printing notes
 
-In most use cases, the centerpieces are loaded with a bending moment, which is only really a problem when using the longer (4"+) models.  Adding infill and perimeters can help with rigidity, but for most cases simply printing fast and cheap should work fine.  PLA is a good choice for maximum rigidity.
+In most use cases, the centerpieces are loaded with a bending moment, which is only really a problem when using the longer (4"+) models.  Adding perimeters and infill can help with rigidity, but for most cases simply printing fast and cheap should work fine.  PLA is a good choice for maximum rigidity.
