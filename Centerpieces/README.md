@@ -30,7 +30,7 @@ These spacers mount flush to both the back and front of the side pieces, which r
 
 ### [Clip-on Spacer](Spacer_clip-on/)
 
-Another flush-mount design requiring 4 or 6 [4x10x8mm Pins](./4x10x8mm%20Pin.stl) for mounting between side pieces.  The clip-on spacer provides a vertical surface set a few mm away from the wall panel so that one can mount clip-on parts such as a tape measure.
+Another flush-mount design requiring 4 or 6 [4x10x8mm Pins](../Accessories/4x10x8mm%20Pin.stl) for mounting between side pieces.  The clip-on spacer provides a vertical surface set a few mm away from the wall panel so that one can mount clip-on parts such as a tape measure.
 
 ### [U hooks](U_hooks/)
 
