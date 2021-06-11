@@ -43,3 +43,7 @@ The locking screw uses a 1/4" square drive, same as one would use to drive a 1/4
 ## About powder coated Wall Control Panels
 
 Wall control panels are available in a range of colors or as a simple unpainted, steel sheet.  The slots cut in the plain steel panels are slightly wider than those in the powder coated panels due to the thickness of the paint itself.  The catches in these models are designed to attach firmly to the powder coated panels, while unpainted panels might have a little more play due to the difference in thickness.  If your assembled part doesn't fit tight, try including one of the locking parts to ensure a secure fit.
+
+## Join the discussion!
+
+Click the [Discussions](https://github.com/aderusha/DDD-Printable-Wall-Control-System/discussions) link above to ask questions, get help, suggest new ideas, or submit your own models!
