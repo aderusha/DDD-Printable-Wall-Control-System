@@ -16,7 +16,7 @@ Centerpiece names start with the dimensions, roughly equivalent to inches as use
 
 * ### [11pc Wrench Hangers](1x6%2011pc%20Wrench%20Hanger.stl)
 
-  Holds an 11 piece set of SAE box-end wrenches, combine with the [Inverted model](1x6%2011pc%20Wrench%20Hanger%20Inverted.stl) to hold a [22 piece set like this](https://amzn.to/35fa7dd).  Print with a left/right/center set of [6x0 Flats](../../Sidepieces/Flats) and at least 8x [4x8x10mm Pins](../Spacer_blank_flush/4x10x8mm%20Pin.stl).
+  Holds an 11 piece set of SAE box-end wrenches, combine with the [Inverted model](1x6%2011pc%20Wrench%20Hanger%20Inverted.stl) to hold a [22 piece set like this](https://amzn.to/35fa7dd).  Print with a left/right/center set of [6x0 Flats](../../Sidepieces/Flats) and at least 8x [4x10x8mm Pins](../Spacer_blank_flush/4x10x8mm%20Pin.stl).
 
 * ### [2x4 10x](2x4%2010x%2010mm%20Screwdriver%20Holder.stl) and [2x5 13x 10mm Screwdriver Holder](2x5%2013x%2010mm%20Screwdriver%20Holder.stl)
 
@@ -24,7 +24,7 @@ Centerpiece names start with the dimensions, roughly equivalent to inches as use
 
 * ### Chinese Digital Calipers [150mm](1x3%20Chinese%20Digital%20Calipers%20150mm.stl) and [300mm](1x3%20Chinese%20Digital%20Calipers%20300mm.stl)
 
-  Designed for [150mm](https://amzn.to/3pcWByG) and [300mm](https://amzn.to/2UdfQdb) calipers of the sort you'll find from various Chinese vendors.  Combine with [2x1 L Brackets](../../Sidepieces/L_brackets/), a [2x3 locking spacer](../../Centerpieces/Locking_spacer/2x3%20Locking%20Spacer.stl), 4x [4x8x10mm Pins](../Spacer_blank_flush/4x10x8mm%20Pin.stl), and an [8mm Lock Pin](../../Centerpieces/Locking_spacer/8mm%20Lock%20Pin.stl) to keep it in place.
+  Designed for [150mm](https://amzn.to/3pcWByG) and [300mm](https://amzn.to/2UdfQdb) calipers of the sort you'll find from various Chinese vendors.  Combine with [2x1 L Brackets](../../Sidepieces/L_brackets/), a [2x3 locking spacer](../../Centerpieces/Locking_spacer/2x3%20Locking%20Spacer.stl), 4x [4x10x8mm Pins](../Spacer_blank_flush/4x10x8mm%20Pin.stl), and an [8mm Lock Pin](../../Centerpieces/Locking_spacer/8mm%20Lock%20Pin.stl) to keep it in place.
 
 * ### [2.25x2 Milwaukee 3/8" Cordless Ratchet](2x2%20Milwaukee%203-8%20Cordless%20Ratchet.stl)
 
@@ -68,19 +68,19 @@ Centerpiece names start with the dimensions, roughly equivalent to inches as use
 
 * ### [DeWalt DCB118 Charger](2x7%20DeWalt%20DCB118%20Charger.stl)
 
-  Mount for the [DeWalt DCB118 20v/60v quick charger](https://amzn.to/36yhLio) with locking feature.  This is DeWalt's fastest charger yet, works with all modern 20v and 60v batteries.  Combine with [2x0 Flat Brackets](../../Sidepieces/Flats/), 4x [4x8x10mm Pins](../Spacer_blank_flush/4x10x8mm%20Pin.stl), and two [8mm Lock Pins](../../Centerpieces/Locking_spacer/8mm%20Lock%20Pin.stl) to keep it in place.
+  Mount for the [DeWalt DCB118 20v/60v quick charger](https://amzn.to/36yhLio) with locking feature.  This is DeWalt's fastest charger yet, works with all modern 20v and 60v batteries.  Combine with [2x0 Flat Brackets](../../Sidepieces/Flats/), 4x [4x10x8mm Pins](../Spacer_blank_flush/4x10x8mm%20Pin.stl), and two [8mm Lock Pins](../../Centerpieces/Locking_spacer/8mm%20Lock%20Pin.stl) to keep it in place.
 
 * ### [DeWalt DCB095 Charger](3x1%20DeWalt%20DCB095%20Charger.stl)
 
-  Mount for the [DeWalt DCB095 8v charger](https://amzn.to/3fpajda) with locking feature.  Charger for the 8v battery system used by their [powered screwdrivers](https://amzn.to/3fpajda).  Print left/right [3x0 Flat Brackets](../../Sidepieces/Flats/), 4x [4x8x10mm Pins](../Spacer_blank_flush/4x10x8mm%20Pin.stl), and an [8mm Lock Pin](../../Centerpieces/Locking_spacer/8mm%20Lock%20Pin.stl) to keep it in place.
+  Mount for the [DeWalt DCB095 8v charger](https://amzn.to/3fpajda) with locking feature.  Charger for the 8v battery system used by their [powered screwdrivers](https://amzn.to/3fpajda).  Print left/right [3x0 Flat Brackets](../../Sidepieces/Flats/), 4x [4x10x8mm Pins](../Spacer_blank_flush/4x10x8mm%20Pin.stl), and an [8mm Lock Pin](../../Centerpieces/Locking_spacer/8mm%20Lock%20Pin.stl) to keep it in place.
 
 * ### [Milwaukee M12 Charger](4x3%20Milwaukee%20M12%20Charger.stl)
 
-  Mount for the [Milwaukee M12 Charger](https://amzn.to/375AkL7) with locking feature, used for all M12 tools from Milwaukee.  Combine with [2x0 Flat Brackets](../../Sidepieces/Flats/), 4x [4x8x10mm Pins](../Spacer_blank_flush/4x10x8mm%20Pin.stl), and two [8mm Lock Pins](../../Centerpieces/Locking_spacer/8mm%20Lock%20Pin.stl) to keep it in place.
+  Mount for the [Milwaukee M12 Charger](https://amzn.to/375AkL7) with locking feature, used for all M12 tools from Milwaukee.  Combine with [2x0 Flat Brackets](../../Sidepieces/Flats/), 4x [4x10x8mm Pins](../Spacer_blank_flush/4x10x8mm%20Pin.stl), and two [8mm Lock Pins](../../Centerpieces/Locking_spacer/8mm%20Lock%20Pin.stl) to keep it in place.
 
 * ### [28mm](2x2%2028mm%20Hammer%20Head%20Catch.stl) and [33mm Hammer Head Catch](2x2%2033mm%20Hammer%20Head%20Catch.stl)
 
-  Mounts for claw/rip hammers, the 33mm was designed for the [Estwing Ultra Series 15oz E15SM](https://amzn.to/3puEnJa).  Pair with [2x2 L Brackets](../../Sidepieces/L_brackets/) and 4x [4x8x10mm Pins](../Spacer_blank_flush/4x10x8mm%20Pin.stl).
+  Mounts for claw/rip hammers, the 33mm was designed for the [Estwing Ultra Series 15oz E15SM](https://amzn.to/3puEnJa).  Pair with [2x2 L Brackets](../../Sidepieces/L_brackets/) and 4x [4x10x8mm Pins](../Spacer_blank_flush/4x10x8mm%20Pin.stl).
 
 ---
 
