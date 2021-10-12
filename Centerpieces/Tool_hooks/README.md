@@ -82,6 +82,10 @@ Centerpiece names start with the dimensions, roughly equivalent to inches as use
 
   Mounts for claw/rip hammers, the 33mm was designed for the [Estwing Ultra Series 15oz E15SM](https://amzn.to/3puEnJa).  Pair with [2x2 L Brackets](../../Sidepieces/L_brackets/) and 4x [4x8x10mm Pins](../Spacer_blank_flush/4x10x8mm%20Pin.stl).
 
+* ### [Porter Cable PCXMVC Charger](5x1%20Porter%20Cable%20PCXMVC%20Charger.stl)
+
+  Mount for the Porter Cable PCXMVC Charger with locking feature, used for all 20V tools from Porter Cable.  Combine with left/right [5x0 Flat Brackets](../../Sidepieces/Flats/), 6x [4x10x8mm Pins](../Spacer_blank_flush/4x10x8mm%20Pin.stl), and two [8mm Lock Pins](../../Centerpieces/Locking_spacer/8mm%20Lock%20Pin.stl) to keep it in place.
+
 ---
 
 ## Printing notes
