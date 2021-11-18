@@ -20,6 +20,10 @@ Centerpiece models designed for specific tools and applications.
 
 Spacers with threads for the [8mm Lock Pin](Locking_spacer/8mm%20Lock%20Pin.stl) which will lock the assembled hanger to the Wall Control board.  Use these as vertical spacers between your sidepieces to create a solid mounting solution for nearly anything.
 
+### [Locking Spacer for Horizontal Wall Control](Locking_spacer_for_horizontal_Wall_Control/)
+
+Same as above, but for Horizontal Wall Control panels which have a different hole pattern.
+
 ### [Spacer Blank](Spacer_blank/)
 
 Simple, blank models with connection pins on either side in various sizes.  Great choice for horizontal use as a shelf.
