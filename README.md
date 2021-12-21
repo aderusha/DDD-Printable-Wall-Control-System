@@ -51,3 +51,9 @@ Wall control panels are available in a range of colors or as a simple unpainted,
 ## Join the discussion!
 
 Click the [Discussions](https://github.com/aderusha/DDD-Printable-Wall-Control-System/discussions) link above to ask questions, get help, suggest new ideas, or submit your own models!
+
+## [Buy me a coffee](https://www.buymeacoffee.com/gW5rPpsKR)
+
+[![Buy me a coffee](https://www.buymeacoffee.com/assets/img/custom_images/black_img.png)](https://www.buymeacoffee.com/gW5rPpsKR)
+
+This project is powered by coffee.  [I might get a little weird about it at times](https://github.com/aderusha/RoastLearner), but it's not much of a stretch to suggest that coffee both powers and consumes a fair portion of my mental energy.  [Hook me up if you think these models are cool](https://www.buymeacoffee.com/gW5rPpsKR).  Thanks!
