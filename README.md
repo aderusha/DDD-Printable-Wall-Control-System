@@ -48,6 +48,13 @@ Wall control sells panels which are oriented vertically or horizontally, and the
 
 Wall control panels are available in a range of colors or as a simple unpainted, steel sheet.  The slots cut in the plain steel panels are slightly wider than those in the powder coated panels due to the thickness of the paint itself.  The catches in these models are designed to attach firmly to the powder coated panels, while unpainted panels might have a little more play due to the difference in thickness.  If your assembled part doesn't fit tight, try including one of the locking parts to ensure a secure fit.
 
+## Sources
+
+While several-dozen variants of Quickhooks, Centerpieces and other models are available to download as `.stl` files; you can download and modify the following sources to customise various parts for your needs.
+
+- *[SketchUp Sources](Sources/SketchUp)* - The original sources used to create the base models found in this repository. _Requires SketchUp 2021 or later, with [special instructions for exporting](https://github.com/aderusha/DDD-Printable-Wall-Control-System/issues/3#issuecomment-754100336)_.
+- *[FreeCAD Sources](Sources/FreeCAD)* - Reverse-engineered parametric models maintained by [Flynn](https://github.com/f1yn). Includes source files for Quickhooks and Centerpieces, with more on the way. _Requires FreeCAD 0.20 or later, but can also be easily converted to `.step`_
+
 ## Join the discussion!
 
 Click the [Discussions](https://github.com/aderusha/DDD-Printable-Wall-Control-System/discussions) link above to ask questions, get help, suggest new ideas, or submit your own models!

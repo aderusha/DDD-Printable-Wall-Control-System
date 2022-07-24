@@ -2,3 +2,5 @@
 .local
 .vscode/*
 *.3mf
+.idea/
+*.FCStd[0-9]*
