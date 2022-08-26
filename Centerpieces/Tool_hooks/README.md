@@ -78,6 +78,10 @@ Centerpiece names start with the dimensions, roughly equivalent to inches as use
 
   Mount for the [Milwaukee M12 Charger](https://amzn.to/375AkL7) with locking feature, used for all M12 tools from Milwaukee.  Combine with [2x0 Flat Brackets](../../Sidepieces/Flats/), 4x [4x10x8mm Pins](../Spacer_blank_flush/4x10x8mm%20Pin.stl), and two [8mm Lock Pins](../../Centerpieces/Locking_spacer/8mm%20Lock%20Pin.stl) to keep it in place.
 
+* ### [Milwaukee M12 FUEL Installation Drill/Driver](3x2%20Milwaukee%20M12%20Installation%20Drill.stl)
+
+  Mount for the [Milwaukee M12 FUEL Installation Drill/Driver](https://amzn.to/3KmtOTe). Combine with Left/Right [3x0 Flat Brackets](../../Sidepieces/Flats/) to keep it in place. The [lock piece](3x2%20Milwaukee%20M12%20Installation%20Drill%20Lock.stl) is definitely optional. I thought I'd need it to keep it in place but it actually stays on the holder just fine without the lock piece.
+
 * ### [28mm](2x2%2028mm%20Hammer%20Head%20Catch.stl) and [33mm Hammer Head Catch](2x2%2033mm%20Hammer%20Head%20Catch.stl)
 
   Mounts for claw/rip hammers, the 33mm was designed for the [Estwing Ultra Series 15oz E15SM](https://amzn.to/3puEnJa).  Pair with [2x2 L Brackets](../../Sidepieces/L_brackets/) and 4x [4x10x8mm Pins](../Spacer_blank_flush/4x10x8mm%20Pin.stl).

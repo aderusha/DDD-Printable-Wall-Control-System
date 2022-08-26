@@ -5,3 +5,4 @@
 .idea/
 *.FCStd[0-9]*
 thumbs.db
+*.DS_Store
