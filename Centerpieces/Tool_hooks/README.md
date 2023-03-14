@@ -26,19 +26,30 @@ Centerpiece names start with the dimensions, roughly equivalent to inches as use
 
   Designed for [150mm](https://amzn.to/3pcWByG) and [300mm](https://amzn.to/2UdfQdb) calipers of the sort you'll find from various Chinese vendors.  Combine with [2x1 L Brackets](../../Sidepieces/L_brackets/), a [2x3 locking spacer](../../Centerpieces/Locking_spacer/2x3%20Locking%20Spacer.stl), 4x [4x10x8mm Pins](../Spacer_blank_flush/4x10x8mm%20Pin.stl), and an [8mm Lock Pin](../../Centerpieces/Locking_spacer/8mm%20Lock%20Pin.stl) to keep it in place.
 
-* ### [2.25x2 Milwaukee 3/8" Cordless Ratchet](2x2%20Milwaukee%203-8%20Cordless%20Ratchet.stl)
+* ### Milwaukee M12 Battery holder for [one](2x2_milwaukee_M12_battery_x1.stl), [two](2x5_milwaukee_M12_battery_x2.stl), or [three](2x8_milwaukee_M12_battery_x3.stl) batteries
+
+  Holders for M12 Milwaukee batteries. Each one requires [2x0 Flat Left](../../Sidepieces/Flats/2x0%20Flat%20Left.stl) and [2x0 Flat Right](../../Sidepieces/Flats/2x0%20Flat%20Right.stl) sidepieces along with 4 of the [4x10x8mm pins](../../Accessories/4x10x8mm%20Pin.stl). Photos available in my [Printables page](https://www.printables.com/model/352898-milwaukee-m12-battery-holder-for-wall-control-pegb). These were remixed from [Yangorang's design](https://www.printables.com/model/75300-power-tool-battery-wall-control-pegboard-mounts-fo) which requires nuts and bolts - whereas the version here is fully printable.
+  
+* ### Milwaukee M12 Generic Tool holders
+  These are tool holders that should work for almost all Milwaukee M12 tools, although you should mind how heavy the tools are. There are several variations for holding the tools sideways and flat agains the pegboard (better for heavier tools) and angled ones where the tool points away from the wall:
+    * [Straight](2x1_Milwaukee_M12_tool_holder_straight.stl): tool is held vertically and parallel to the wall, likelly better for some heavier tools since it won't stress the sidepiece hooks as much.
+    * [Straight Extended](2x1_Milwaukee_M12_tool_holder_straight_extended.stl): Same as straight, but arm juts out further from pegboard for wider tools.
+    * [Angled](2x1_Milwaukee_M12_tool_holder_angled.stl): 
+  Each one requires [2x0 Flat Left](../../Sidepieces/Flats/2x0%20Flat%20Left.stl) and [2x0 Flat Right](../../Sidepieces/Flats/2x0%20Flat%20Right.stl) sidepieces along with 4 of the [4x10x8mm pins](../../Accessories/4x10x8mm%20Pin.stl). Photos available in my [Printables page](https://www.printables.com/model/352915-milwaukee-m12-tool-holders-for-wall-control-pegboa). These were remixed from [Yangorang's design](https://www.printables.com/model/75300-power-tool-battery-wall-control-pegboard-mounts-fo) which requires nuts and bolts - whereas the version here is fully printable. It also has added reinforcement on the arms.
+  
+  * ### [2.25x2 Milwaukee 3/8" Cordless Ratchet](2x2%20Milwaukee%203-8%20Cordless%20Ratchet.stl)
 
   Tool holder for the [Milwaukee 3/8" M12 Fuel Cordless Ratchet](https://amzn.to/2IsC9ZB).  Combine with a pair of [2x2 L Brackets](../../Sidepieces/L_brackets/).
 
-* ### Wiha 33496 8-Piece T-Handle Hex Drivers ([M10/8/6/5](1x4%20Wiha%20T-Handle%20M10%20M8%20M6%20M5.stl) and [M4/3/2.5/2](1x3%20Wiha%20T-Handle%20M4%20M3%20M2.5%20M2.stl))
+* ### Wiha 33496 8-Piece T-Handle Hex Drivers ([M10/8/6/5](1x3%20Wiha%20T-Handle%20M10%20M8%20M6%20M5.stl) and [M4/3/2.5/2](1x4%20Wiha%20T-Handle%20M4%20M3%20M2.5%20M2.stl))
 
-  Holders for the [Wiha 33496 8-Piece T-Handle Hex Driver set](https://amzn.to/36gpuRK), split into two parts.  The [larger set](Wiha%20T-Handle%20M10%20M8%20M6%20M5.stl) needs to be set 3" away from the panel for the T-Handles to fit, so pair with [2x3 Angle Brackets](../../Sidepieces/Angle_brackets/) and a [2x4 spacer](../../Centerpieces/Spacer_perforated/2x4%20Spacer%20perforated.stl).  The [smaller set](Wiha%20T-Handle%20M4%20M3%20M2.5%20M2.stl) can set closer to the wall if desired, using [2x2 Angle Brackets](../../Sidepieces/Angle_brackets/) and a [2x3 spacer](../../Centerpieces/Spacer_perforated/2x3%20Spacer%20perforated.stl).
+  Holders for the [Wiha 33496 8-Piece T-Handle Hex Driver set](https://amzn.to/36gpuRK), split into two parts.  The [larger set](1x3%20Wiha%20T-Handle%20M10%20M8%20M6%20M5.stl) needs to be set 3" away from the panel for the T-Handles to fit, so pair with [2x3 Angle Brackets](../../Sidepieces/Angle_brackets/) and a [2x4 spacer](../../Centerpieces/Spacer_perforated/2x4%20Spacer%20perforated.stl).  The [smaller set](1x4%20Wiha%20T-Handle%20M4%20M3%20M2.5%20M2.stl) can set closer to the wall if desired, using [2x2 Angle Brackets](../../Sidepieces/Angle_brackets/) and a [2x3 spacer](../../Centerpieces/Spacer_perforated/2x3%20Spacer%20perforated.stl).
 
 * ### Wera 5023451001 10-Piece Imperial T-Handle Hex Plus Drivers ([Large drivers](2x5%20Wera%20HexPlus%20T-Handle%20Imperial%20Large.stl) and [Small drivers](2x4%20Wera%20HexPlus%20T-Handle%20Imperial%20Small.stl))
 
   Holders for the [Wera 5023451001 10-Piece Imperial T-Handle Hex Plus Drivers](https://amzn.to/3ggLkL6), split into two parts.  Pair with [2x2 Angle Brackets](../../Sidepieces/Angle_brackets/) and a [2x5 spacer](../../Centerpieces/Spacer_perforated/2x5%20Spacer%20perforated.stl) for the larger 5 drivers, and a [2x4 spacer](../../Centerpieces/Spacer_perforated/2x5%20Spacer%20perforated.stl) for the smaller 5 drivers
 
-* ### [Wera 5023450001 7-Piece Metric T-Handle Hex Plus Drivers](2x6%20Wera%20HexPlus%20T-Handle%20Metric)
+* ### [Wera 5023450001 7-Piece Metric T-Handle Hex Plus Drivers](2x6%20Wera%20HexPlus%20T-Handle%20Metric.stl)
 
   Holders for the [Wera 5023450001 7-Piece Metric T-Handle Hex Plus Drivers](https://amzn.to/3vfSXGa).  Pair with [2x3 Angle Brackets](../../Sidepieces/Angle_brackets/) and a [2x6 spacer](../../Centerpieces/Spacer_perforated/2x6%20Spacer%20perforated.stl)
 
