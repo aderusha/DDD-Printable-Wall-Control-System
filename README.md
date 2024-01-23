@@ -32,18 +32,18 @@ The DDD system mixes "side pieces" with "center pieces"  to assemble a complete 
 
 ## Example DDD Printable Wall Control Recipe - belt clip hanger
 
-Let's walk through an example hanger using DDD Printable Wall Control parts to create a hanger for tools with a belt clip such as a tape measure or pocket knife.  The completed model will look [something like this when empty](images\Recipies\belt-clip-hanger-empty.jpg) and [like this with some tools hung](images\Recipies\belt-clip-hanger-populated.jpg).
+Let's walk through an example hanger using DDD Printable Wall Control parts to create a hanger for tools with a belt clip such as a tape measure or pocket knife.  The completed model will look [something like this when empty](images/Recipies/belt-clip-hanger-empty.jpg) and [like this with some tools hung](images/Recipies/belt-clip-hanger-populated.jpg).
 
 ### Belt Clip Hanger printable BOM
 
-Print the following parts for a 3in wide hanger as seen on the right in [the example photos above](images\Recipies\belt-clip-hanger-empty.jpg), substitute 4x wide or whatever you need for larger/smaller hangers.
+Print the following parts for a 3in wide hanger as seen on the right in [the example photos above](images/Recipies/belt-clip-hanger-empty.jpg), substitute 4x wide or whatever you need for larger/smaller hangers.
 
-* **1x [3x0 Flat Left.stl](Sidepieces\Flats\3x0%20Flat%20Left.stl)**  Left-hand sidepiece, 3 inches tall and flat in the front so there's nothing sticking forward. A sidepiece 3 high and 0 forward will have a filename starting with 3x0.
-* **1x [3x0 Flat Right.stl](Sidepieces\Flats\3x0%20Flat%20Right.stl)**  Right hand sidepiece, same as above.
-* **1x [2x3 Spacer clip-on.stl](Centerpieces\Spacer_clip-on\2x3%20Spacer%20clip-on.stl)**  Center hook for the clip, this one is 2in high and 3in across.  A centerpiece 2 high and 3 across will have a filename starting with 2x3.
-* **1x [1x3 Locking Spacer.stl](Centerpieces\Locking_spacer\1x3%20Locking%20Spacer.stl)** Allows the hanger to be locked to the wall control panel via a locking pin.
-* **1x [8mm Lock Pin.stl](Accessories\8mm%20Lock%20Pin.stl)**  Screws into the locking spacer to press a pin into the 1/4" holes on your Wall Control panel, providing a fully-constrained fit on the wall. Drive into place with a quarter-inch square drive ratchet. This is the core feature of this system, so print a bunch!
-* **4x [4x10x8mm Pin.stl](Accessories\4x10x8mm%20Pin.stl)**  Some centerpieces do not have tabs on the model to press into the sidepiece, such as the "Spacer clip-on" centerpieces used in this recipe.  This is always a result of avoiding "supports" in the print job.  Print out a set of these 4 pins, press-fit on either side of the "Spacer clip-on" part, then press into the left/right sidepieces along with the Locking Spacer.
+* **1x [3x0 Flat Left.stl](Sidepieces/Flats/3x0%20Flat%20Left.stl)**  Left-hand sidepiece, 3 inches tall and flat in the front so there's nothing sticking forward. A sidepiece 3 high and 0 forward will have a filename starting with 3x0.
+* **1x [3x0 Flat Right.stl](Sidepieces/Flats/3x0%20Flat%20Right.stl)**  Right hand sidepiece, same as above.
+* **1x [2x3 Spacer clip-on.stl](Centerpieces/Spacer_clip-on/2x3%20Spacer%20clip-on.stl)**  Center hook for the clip, this one is 2in high and 3in across.  A centerpiece 2 high and 3 across will have a filename starting with 2x3.
+* **1x [1x3 Locking Spacer.stl](Centerpieces/Locking_spacer/1x3%20Locking%20Spacer.stl)** Allows the hanger to be locked to the wall control panel via a locking pin.
+* **1x [8mm Lock Pin.stl](Accessories/8mm%20Lock%20Pin.stl)**  Screws into the locking spacer to press a pin into the 1/4" holes on your Wall Control panel, providing a fully-constrained fit on the wall. Drive into place with a quarter-inch square drive ratchet. This is the core feature of this system, so print a bunch!
+* **4x [4x10x8mm Pin.stl](Accessories/4x10x8mm%20Pin.stl)**  Some centerpieces do not have tabs on the model to press into the sidepiece, such as the "Spacer clip-on" centerpieces used in this recipe.  This is always a result of avoiding "supports" in the print job.  Print out a set of these 4 pins, press-fit on either side of the "Spacer clip-on" part, then press into the left/right sidepieces along with the Locking Spacer.
 
 ### To recap
 
