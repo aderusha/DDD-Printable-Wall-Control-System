@@ -105,6 +105,10 @@ Centerpiece names start with the dimensions, roughly equivalent to inches as use
 
   This mount allows two small Ryobi boxes - for example, the [22 piece Titanium Drill Set](https://www.homedepot.com/p/RYOBI-Titanium-Drill-Bit-Set-22-Piece-A972203/326243202) and the [52 piece Impact Driving Set](https://www.homedepot.com/p/RYOBI-Diamond-Grit-Driving-Set-52-Piece-A965201/326243033) (or any other small Ryobi boxes of this form factor) to be mounted side by side. Combine with Left/Right [2x0 Flat Brackets](../../Sidepieces/Flats/) to keep it in place.
 
+* ### [Ryobi PCG002 18V Battery Charger](Ryobi%20PCG002%2018V%20Battery%20Charger)
+
+  Mount for the Ryobi PCG002 18V Battery Charger.  Combine two with left/right [5x0 Flat Brackets](../../Sidepieces/Flats/) and 8x [4x10x8mm Pins](../Spacer_blank_flush/4x10x8mm%20Pin.stl).  Two of the 2x1 mounts should be printed, with one at the top of the 5x1 and the mounting cone at the top, and the other at the bottom of the 5x1 with the mounting cone at the bottom.
+
 ---
 
 ## Printing notes
